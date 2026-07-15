@@ -1,7 +1,7 @@
 # Run Sheet
 
 **Event 1:** A Day on the Tools with Lamb Dog (flagship, 60 min)
-**Event 2:** Lamb Dog: Judgement Day (open workshop stream, half day, T+3 weeks)
+**Event 2:** Judgement Day (open workshop stream, half day, T+3 weeks)
 **Tagline:** "Come with me if you want to ship."
 
 Anything marked `[VERIFY]` is a best-guess command. Replace with real syntax during dry run #1.
