@@ -3,7 +3,7 @@
 Working backwards from flagship day. The theme: nothing on screen you haven't seen on screen before.
 
 **Flagship:** A Day on the Tools with Lamb Dog (T-0)
-**Stream:** Lamb Dog: Judgement Day (T+3 weeks)
+**Stream:** Judgement Day (T+3 weeks)
 
 ## T-3 weeks
 

@@ -45,7 +45,7 @@ A few structural gags are doing the heavy lifting, and honestly we should be nic
 | Artefact | What it is |
 |---|---|
 | **A Day on the Tools with Lamb Dog** | 60-min flagship. My real working day, live: agent salvos, multi-tenant plumbing, Kimble hacks, review discipline. |
-| **Lamb Dog: Judgement Day** | Half-day open workshop stream, T+3 weeks. Drop in whenever. You vote via the kill list, I build it live. "Come with me if you want to ship." |
+| **Judgement Day** | Half-day open workshop stream, T+3 weeks. Drop in whenever. You vote via the kill list, I build it live. "Come with me if you want to ship." |
 | **clothes-boots-motorcycle** | The goodie-bag repo. You arrive with nothing, you leave equipped. Tiered Day One / Week One / Deep End. |
 | **TryNet** | Fortnightly 30-min office hours, forever. Dumb questions are the entire point of the meeting. |
 

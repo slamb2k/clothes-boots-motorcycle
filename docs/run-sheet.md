@@ -186,7 +186,7 @@ Return to the salvo in order:
 **Then:**
 
 - Goodie-bag repo link in chat: **clothes-boots-motorcycle**. "You arrived with nothing. Clone this and leave equipped. Day One tier tonight, that's the homework."
-- Announce **Lamb Dog: Judgement Day**: date, drop-in format, kill list link. "You vote, I build it live."
+- Announce **Judgement Day**: date, drop-in format, kill list link. "You vote, I build it live."
 - Announce TryNet fortnightly office hours.
 - Invite Mad Skills contributions: "Build a skill, PR it in."
 
@@ -196,7 +196,7 @@ Return to the salvo in order:
 
 ---
 
-# Part 2: Lamb Dog: Judgement Day
+# Part 2: Judgement Day
 
 Half day, 10:00-15:00, drop-in like a Twitch stream. Published block schedule so people cherry-pick. Recorded and chaptered. Each block: 45 min content + 15 min buffer, self-contained, 60-second context reset at the top for fresh arrivals.
 

@@ -1,7 +1,7 @@
 # Comms Pack
 
 **Flagship:** A Day on the Tools with Lamb Dog (60 min, T-0)
-**Stream:** Lamb Dog: Judgement Day (half day, T+3 weeks)
+**Stream:** Judgement Day (half day, T+3 weeks)
 **Tagline:** "Come with me if you want to ship."
 
 All copy is Teams-post-ready unless marked otherwise. Replace everything in `<angle brackets>`.
@@ -30,7 +30,7 @@ All copy is Teams-post-ready unless marked otherwise. Replace everything in `<an
 >
 > You'll leave with a starter repo that gets you from nothing to my baseline setup tonight.
 >
-> One more thing. Three weeks later, the machines rise: **Lamb Dog: Judgement Day**, a half-day open workshop stream. Drop in when you like, leave when you like. I build and fix things live, and YOU pick what. The kill list is open now: <link>. Submit anything: a tool you want torn apart, a problem that's been haunting your project, "show me X from scratch". Top-voted targets get terminated live.
+> One more thing. Three weeks later, the machines rise: **Judgement Day**, a half-day open workshop stream. Drop in when you like, leave when you like. I build and fix things live, and YOU pick what. The kill list is open now: <link>. Submit anything: a tool you want torn apart, a problem that's been haunting your project, "show me X from scratch". Top-voted targets get terminated live.
 >
 > Calendar invite coming. Recorded, but the chat is half the fun.
 
@@ -81,7 +81,7 @@ All copy is Teams-post-ready unless marked otherwise. Replace everything in `<an
 >
 > **Goodie bag repo: `clothes-boots-motorcycle`.** <link>. You arrived with nothing; leave equipped. Homework is the Day One tier: 30 minutes, tonight, that's it. Don't install the whole list, you'll drown.
 >
-> **Lamb Dog: Judgement Day is <date>.** Half day, drop in whenever, block schedule to follow. The kill list closes <date>; current top three: <items>. Last chance to nominate targets: <link>
+> **Judgement Day is <date>.** Half day, drop in whenever, block schedule to follow. The kill list closes <date>; current top three: <items>. Last chance to nominate targets: <link>
 >
 > **TryNet office hours** start <date>, fortnightly, 30 minutes. Bring dumb questions. Dumb questions are the entire point of the meeting.
 >
@@ -89,7 +89,7 @@ All copy is Teams-post-ready unless marked otherwise. Replace everything in `<an
 
 ## T+2.5 weeks: Judgement Day announcement
 
-> **Lamb Dog: Judgement Day. <date>, 10:00-15:00. Drop in any time.**
+> **Judgement Day. <date>, 10:00-15:00. Drop in any time.**
 > *"Come with me if you want to ship."*
 >
 > This is not a meeting. Treat it like a stream: come for the block you care about, lurk over lunch, leave when you're done. Every block stands alone.

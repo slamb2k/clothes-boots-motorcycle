@@ -8,7 +8,7 @@ The goodie bag from **A Day on the Tools with Lamb Dog**. You've arrived on a na
 | Link | What |
 |---|---|
 | <recording link> | Session recording, chaptered |
-| <kill list link> | Nominate targets for Lamb Dog: Judgement Day |
+| <kill list link> | Nominate targets for Judgement Day |
 | <calendar link> | TryNet office hours, fortnightly |
 
 ---
