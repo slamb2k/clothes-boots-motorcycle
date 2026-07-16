@@ -1,6 +1,6 @@
 # Team Brief: No Fate But What We Make
 
-![MATT-1000 says YES!](../assets/image.png)
+<img src="../assets/image.png" alt="MATT-1000 says YES!" width="50%">
 
 ## What is this?
 ### **Program:** one flagship session, one half-day stream, one starter repo, one recurring forum. The goal: get the whole team productive with agentic coding tools, from grads to veterans, with a 30-minute on-ramp and a deep end worth diving into.
