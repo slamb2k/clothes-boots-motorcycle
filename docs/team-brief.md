@@ -1,6 +1,9 @@
 # Team Brief: No Fate But What We Make
 
-## What this is
+![MATT-1000 says YES!](../assets/image.png)
+
+## What is this?
+### **Program:** one flagship session, one half-day stream, one starter repo, one recurring forum. The goal: get the whole team productive with agentic coding tools, from grads to veterans, with a 30-minute on-ramp and a deep end worth diving into.
 
 You know the drill with AI tooling sessions. Someone books a lunch-and-learn, shows some slides about prompts, everyone nods politely, and three weeks later precisely nothing has changed except the calendar has one more recording nobody watches. I've sat through those. You've sat through those. We're not doing that.
 
